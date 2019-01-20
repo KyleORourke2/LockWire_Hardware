@@ -6,9 +6,7 @@
 // Description:
 // Electronic bike lock running on a DragonBoard 410c
 // System uses an Accelerometer and GPS running on a
-// Sparkfun 9-dof Razor IMU board. This software reads
-// the incomming serial data from the Razor IMU board
-// and determines if a theft has occured.
+// Arduino Uno red-board. 
 
 #include <SPI.h>
 #include <TinyGPS++.h>
